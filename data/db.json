@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st post",
+      "datetime": "July 20, 2023 12:48:20 AM",
+      "body": "Everything you ask of will definitely work out, just believe. And trust your God."
+    },
+    {
+      "id": 2,
+      "title": "2nd post",
+      "datetime": "July 20, 2023 12:48:20 AM",
+      "body": "Everything you ask of will definitely work out, just believe. And trust your God."
+    },
+    {
+      "id": 3,
+      "title": "Third post",
+      "datetime": "July 20, 2023 12:48:20 PM",
+      "body": "Everything you ask of will definitely work out, just believe. And trust your God."
+    },
+    {
+      "id": 4,
+      "title": "My 4th post!!!",
+      "dateTime": "July 28, 2023 10:50:01 AM",
+      "body": "Everything you ask of will definitely work out, just believe. And trust your God."
+    },
+    {
+      "id": 6,
+      "title": "Test  Post For Tutorial ",
+      "dateTime": "July 27, 2023 6:23:59 PM",
+      "body": "Just so you're familiar with React!!!"
+    },
+    {
+      "id": 7,
+      "title": "My 5th post ",
+      "dateTime": "July 28, 2023 12:00:52 PM",
+      "body": "<<<<Driz>>>>"
+    },
+    {
+      "id": 8,
+      "title": "sixth post time",
+      "datetime": "August 04, 2023 10:13:22 AM",
+      "body": "always on point\non point point"
+    },
+    {
+      "id": 9,
+      "title": "one last one",
+      "dateTime": "August 04, 2023 3:05:49 PM",
+      "body": "got one more in me"
+    }
+  ]
+}
