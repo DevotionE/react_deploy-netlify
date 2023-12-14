@@ -15,7 +15,7 @@ import { useStoreActions } from "easy-peasy";
 function App() {
   const setPosts = useStoreActions((actions) => actions.setPosts);
   const { data, fetchError, isLoading } = useAxiosFetch(
-    "http://localhost:3500/posts"
+    "https://blogchat.onrender.com"
   );
 
   useEffect(() => {
